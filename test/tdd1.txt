@@ -26,6 +26,14 @@ I should rails test:system
 
 I should git init; git add .; git ciam hi
 
+I should create bitbucket repo:git@bitbucket.org:bikle/python4
+I should create github repo:git@github.com:bikle/python4
+
+I should create python4@usa.com email
+I should create heroku account
+
+I should install heroku cli
+
 I should manage python4.us to point it at python4.herokuapp.com
 
 I should see if I can point it at an ip add
